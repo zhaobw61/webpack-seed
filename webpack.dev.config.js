@@ -1,3 +1,5 @@
+// 清空bulid目录
+// 在编译前要做的事
 require('./npm-scripts/before-build.script');
 
 module.exports = {
